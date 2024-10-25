@@ -1,0 +1,19 @@
+{
+  "id": "findwater_bottle_of_water_blueprint",
+  "nameTerm": "findwater_bottle_of_water_blueprint",
+  "group": "Resources",
+  "hideFromIdeasTab": false,
+  "hideFromCardopedia": false,
+  "isInvention": false,
+  "needsExactMatch": true,
+  "subprints": [
+    {
+      "RequiredCards": "any_villager, empty_bottle, sand, sand, charcoal, charcoal, milk, milk",
+      "CardsToRemove": "empty_bottle, sand, sand, charcoal, charcoal, milk, milk",
+      "ResultCard": "bottle_of_water",
+      "ExtraResultCards": null,
+      "Time": 15,
+      "statusTerm": "findwater_bottling"
+    },
+  ]
+}
