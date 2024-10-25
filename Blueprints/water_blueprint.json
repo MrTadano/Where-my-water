@@ -1,1 +1,18 @@
-
+{
+  "id": "resourcesmod_sticks5_blueprint",
+  "nameTerm": "resourcesmod_sticks5_blueprint",
+  "group": "Resources",
+  "hideFromIdeasTab": true,
+  "hideFromCardopedia": true,
+  "isInvention": false,
+  "needsExactMatch": true,
+  "subprints": [
+    {
+      "RequiredCards": "any_villager, bottle_of_water",
+      "CardsToRemove": "bottle_of_water",
+      "ExtraResultCards": "empty_bottle, water",
+      "Time": 10,
+      "statusTerm": "resourcesmod_sticks_making"
+    },
+  ]
+}
