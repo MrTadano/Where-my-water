@@ -12,7 +12,7 @@
       "CardsToRemove": "empty_bottle, sand, sand, charcoal, charcoal, milk, milk",
       "ResultCard": "bottle_of_water",
       "ExtraResultCards": null,
-      "Time": 15,
+      "Time": 30,
       "statusTerm": "findwater_bottling"
     },
   ]
