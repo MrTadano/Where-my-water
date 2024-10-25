@@ -1,5 +1,6 @@
 {
-	"id": "example_mod",
-	"name": "Example Mod",
-	"version": "0.0.1"
+	"id": "find_water",
+	"name": "Find Water",
+	"version": "1.0.0",
+	"author": "MrTadano"
 }
